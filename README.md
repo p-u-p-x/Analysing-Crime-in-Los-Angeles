@@ -271,18 +271,18 @@ weapon_crime = crimes_clean.groupby(['Crm Cd Desc','Weapon Desc']).size().reset_
 ## Results and Findings
 
 ### Temporal Patterns:
-    - Peak crime hour: 12pm (noon)
-    - Fridays have 15% more crime than Wednesdays
-    - Summer months show 20% increase in violent crimes
+  - Peak crime hour: 12pm (noon)
+  - Fridays have 15% more crime than Wednesdays
+  - Summer months show 20% increase in violent crimes
 ### Geographic Hotspots:
-    - 77th Street area has highest overall crime volume
-    - Hollywood area has highest night crime rate
+  - 77th Street area has highest overall crime volume
+  - Hollywood area has highest night crime rate
 ### Victim Demographics:
-    - 25-34 age group most vulnerable (32% of victims)
-    - Hispanic/Latino victims represent 48% of cases
+  - 25-34 age group most vulnerable (32% of victims)
+  - Hispanic/Latino victims represent 48% of cases
 ### Crime Types:
-    - Theft accounts for 28% of all crimes
-    - 18% of crimes involve violent acts
+  - Theft accounts for 28% of all crimes
+  - 18% of crimes involve violent acts
 
 ## Recommendations
 
